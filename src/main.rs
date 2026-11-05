@@ -107,8 +107,8 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
         let mut theme_set = syntect::highlighting::ThemeSet::from(&lazy_theme_set);
         // Hardcoded COSMIC themes
         for (theme_name, theme_data) in &[
-            ("COSMIC Dark", cosmic_syntax_theme::COSMIC_DARK_TM_THEME),
-            ("COSMIC Light", cosmic_syntax_theme::COSMIC_LIGHT_TM_THEME),
+            ("Zinc Dark", cosmic_syntax_theme::COSMIC_DARK_TM_THEME),
+            ("Zinc Light", cosmic_syntax_theme::COSMIC_LIGHT_TM_THEME),
         ] {
             let mut cursor = io::Cursor::new(theme_data);
             match syntect::highlighting::ThemeSet::load_from_reader(&mut cursor) {

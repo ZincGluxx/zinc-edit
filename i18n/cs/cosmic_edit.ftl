@@ -1,4 +1,4 @@
-comment = Textový editor pro prostředí COSMIC
+comment = Textový editor pro prostředí Zinc
 new-document = Nový dokument
 open-project = Otevřít projekt
 
@@ -77,8 +77,8 @@ highlight-current-line = Zvýraznit aktuální řádek
 syntax-highlighting = Zvýraznění syntaxe...
 menu-settings = Nastavení...
 menu-keyboard-shortcuts = Klávesové zkratky...
-menu-about = O aplikaci Textový editor COSMIC...
-cosmic-text-editor = Textový editor COSMIC
+menu-about = O aplikaci Textový editor Zinc...
+cosmic-text-editor = Textový editor Zinc
 repository = Repozitář
 support = Podpora
 git-management = Správa Git

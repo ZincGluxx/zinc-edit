@@ -1,5 +1,5 @@
-# COSMIC Text Editor
-Text editor for the COSMIC desktop
+# Zinc Text Editor
+Text editor for the Zinc desktop
 
 ![Screenshot](res/screenshots/screenshot-1.png)
 
